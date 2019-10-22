@@ -1,5 +1,5 @@
 value:
-        .word   6
+        .word   6 //jak
 negate:
         sub     sp, sp, #8
         str     r0, [sp, #4]
